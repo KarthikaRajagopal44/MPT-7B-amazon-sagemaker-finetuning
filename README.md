@@ -1,1 +1,1 @@
-# Contextual-Retrieval-System-for-Improving-RAG-Accuracy-using-OpenAI-GPT-4o
+# MPT-7B-amazon-sagemaker-finetuning
